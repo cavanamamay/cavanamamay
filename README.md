@@ -4,8 +4,8 @@ SEJA BEM-VINDO AO NOSSO PERFIL DO GITHUB!
 -css
 -python
 -proativas
--organizadas
--prestativas
--sua melhor contratação
+##### organizadas
+##### prestativas
+##### sua melhor contratação
 ##### NOSSO OBJETIVO É MOSTRAR NOSSA EVOLUÇÃO EM RELAÇÃO A AO NOSSO PORTIFÓLIO DE MANEIRA SÓLIDA
-####### NOS CONTRATEM!!!!!!
+##### NOS CONTRATEM!!!!!!
